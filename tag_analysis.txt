@@ -1,0 +1,19 @@
+
+
+No of Topics : 5
+
+
+Topic: 0 ---- Words: 0.052*"token" + 0.028*"program" + 0.026*"innov" + 0.022*"secur" + 0.020*"exchang" + 0.018*"javascript" + 0.018*"digit" + 0.016*"ecommerc" + 0.015*"iot" + 0.014*"sale"
+Topic: 1 ---- Words: 0.073*"develop" + 0.066*"startup" + 0.037*"invest" + 0.035*"data" + 0.024*"news" + 0.022*"softwar" + 0.020*"app" + 0.016*"web" + 0.014*"food" + 0.014*"scienc"
+Topic: 2 ---- Words: 0.140*"bitcoin" + 0.092*"technolog" + 0.091*"crypto" + 0.035*"smart" + 0.027*"fintech" + 0.027*"contract" + 0.026*"tech" + 0.021*"product" + 0.017*"game" + 0.016*"ai"
+Topic: 3 ---- Words: 0.395*"blockchain" + 0.176*"cryptocurr" + 0.049*"ico" + 0.020*"decentr" + 0.018*"intellig" + 0.017*"artifici" + 0.015*"design" + 0.013*"healthcar" + 0.013*"financ" + 0.011*"entrepreneurship"
+Topic: 4 ---- Words: 0.028*"market" + 0.024*"busi" + 0.022*"learn" + 0.019*"trade" + 0.014*"machin" + 0.014*"servic" + 0.013*"fbn" + 0.012*"fivebal" + 0.012*"updat" + 0.011*"advertis"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 5
+
+
+Topic: 0 ---- Words: 0.063*"startup" + 0.024*"busi" + 0.015*"ecommerc" + 0.014*"educ" + 0.013*"big" + 0.013*"fbn" + 0.013*"network" + 0.012*"fivebal" + 0.012*"manag" + 0.011*"english"
+Topic: 1 ---- Words: 0.437*"blockchain" + 0.195*"cryptocurr" + 0.030*"invest" + 0.021*"tech" + 0.017*"secur" + 0.014*"healthcar" + 0.014*"digit" + 0.011*"food" + 0.011*"scienc" + 0.011*"music"
+Topic: 2 ---- Words: 0.072*"develop" + 0.028*"program" + 0.027*"fintech" + 0.027*"decentr" + 0.024*"news" + 0.021*"softwar" + 0.021*"product" + 0.020*"trade" + 0.016*"web" + 0.015*"iot"
+Topic: 3 ---- Words: 0.137*"bitcoin" + 0.065*"ico" + 0.049*"token" + 0.025*"innov" + 0.024*"intellig" + 0.023*"artifici" + 0.020*"design" + 0.019*"exchang" + 0.017*"financ" + 0.014*"servic"
+Topic: 4 ---- Words: 0.088*"technolog" + 0.087*"crypto" + 0.033*"smart" + 0.033*"data" + 0.028*"market" + 0.026*"contract" + 0.022*"learn" + 0.018*"app" + 0.017*"javascript" + 0.016*"game"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
